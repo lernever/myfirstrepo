@@ -1,1 +1,1 @@
-# I will use this git fetch and git merge
+# I will use this to use commit -a
